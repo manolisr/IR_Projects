@@ -1,11 +1,11 @@
 # IR_Projects
 
 ## IR_project_1
-- [Part 1, Term-based matching](#part1):
+- Part 1, Term-based matching:
     - Learn how to load a dataset and process it.
     - Learn how to implement several standard IR methods (TF-IDF, BM25, QL) and understand their weaknesses & strengths.
     - Learn how to evaluate IR methods.
-- [Part 2, Semantic-based matching](#part2):
+- Part 2, Semantic-based matching:
     - Learn how to implement vector-space retrieval methods (LSI, LDA).
     - Learn how to use LSI and LDA for re-ranking
 
